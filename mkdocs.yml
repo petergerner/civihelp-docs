@@ -1,0 +1,8 @@
+site_name: CRM dokumentáció
+nav:
+    - Home: index.md
+    - CiviCRM: civicrm.md
+    - Koordinátor: koordinator.md
+    - Adminisztrátor: adminisztrator.md
+    - Help: help.md
+theme: yeti
