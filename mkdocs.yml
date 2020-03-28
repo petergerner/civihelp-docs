@@ -1,8 +1,52 @@
-site_name: CRM dokumentáció
+# Project information
+site_name: CiviHelp dokumentáció
+site_description: 'Kapcsolatkezelő rendszer segítő szervezeteknek'
+site_author: 'Gerner Péter'
+site_url: 'https://petergerner.github.io/crm-docs/'
+
+# Repository
+repo_name: 'petergerner/crm-docs'
+repo_url: 'https://github.com/petergerner/crm-docs'
+
 nav:
-    - Home: index.md
-    - CiviCRM: civicrm.md
-    - Koordinátor: koordinator.md
-    - Adminisztrátor: adminisztrator.md
-    - Help: help.md
-theme: yeti
+- Tartalom: 'index.md'
+- Első lépések:
+    - 'Mi az a CiviCRM?': 'bevezetes/civicrm.md'
+- Önkénteseknek:
+    - 'CiviHelp önkénteseknek': 'onkentesek/onkentes.md'
+    - 'Kapcsolattartás a koordinátorokkal': 'onkentesek/onkentes.md'
+- Koordinátoroknak:
+    - 'CiviHelp összefoglaló koordinátoroknak': 'koordinatorok/koordinator.md'
+    - 'Feladatok meghirdetése': 'koordinatorok/koordinator.md'
+    - 'Önkéntesek feladatokhoz rendelése': 'koordinatorok/koordinator.md'
+    - 'Kapcsolattartás az önkéntesekkel': 'koordinatorok/koordinator.md'
+- Adminisztrátoroknak:
+    - 'CiviHelp adminisztrációja': 'adminisztratorok/adminisztrator.md'
+
+# Theme configuration
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  language: hu
+  palette:
+    primary: teal
+    accent: teal
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo:
+    icon: "\uE80C"
+  feature:
+    tabs: false
+  extra:
+    search:
+      language: 'hu'
+
+# Customization
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    - type: 'twitter'
+      link: 'https://twitter.com/petergerner'
+    - type: 'linkedin'
+      link: 'https://www.linkedin.com/in/petergerner'

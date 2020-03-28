@@ -1,15 +1,31 @@
-# CRM dokumentáció
+# CiviHelp dokumentáció
 
-For full admin documentation visit [civicrm.org](https://docs.civicrm.org/sysadmin/en/latest/).
+A [CiviHelp](https://civihelp.hu) az ingyenes [CiviCRM](https://civicrm.org/) kapcsolatkezelő rendszer leegyszerűsített, magyarra lefordított és az **önkéntes segítségnyújtás szervezéséhez** beállított változata.
 
-## CiviCRM
+    Természetesen ingyenes, csak kérni kell.
 
-For full admin documentation visit [civicrm.org](https://docs.civicrm.org/sysadmin/en/latest/).
+## Miben segít a CiviHelp?
 
-## Koordinatoroknak
+- Rögzíti és nyilvántartja az önkéntes segítők és segítettek kapcsolati adatait, aktivitásukat és az e-mailes kommunikációt.
+- A koordinátorok az új és korábban regisztrált önkéntesek számára feladatokat hirdethetnek ki az Interneten, amelyre az önkéntesek jelentkezni tudnak, vagy regisztrálják magukat jövőbeli segítségnyújtásra.
+- Projektenként áttekinthető a jelentkezett önkéntesek időbeosztása és száma, az elvégzendő feladatok mennyisége és állapota.
 
-For full admin documentation visit [civicrm.org](https://docs.civicrm.org/sysadmin/en/latest/).
+## Első lépések
+
+1. Saját CiviHelp kialakítása
+2. Regisztráció és első beállítások
+3. Koordinátorok felvétele
+4. Feladatok meghirdetése és jelentkezés
+5. Levelezés és kapcsolattartás
+
+## Önkénteseknek
+Hogyan [jelentkezhetek meghirdetett feladatokra](/onkentesek/onkentes/) a CiviHelp-ben?
+
+## Koordinátoroknak
+
+További tudnivalók a segítők munkáját szervező [CiviHelp koordinátorok](koordinatorok/koordinator) számára.
+
 
 ## Adminisztrátoroknak
 
-For full admin documentation visit [civicrm.org](https://docs.civicrm.org/sysadmin/en/latest/).
+[CiviHelp adminisztrátoroknak](adminisztratorok/adminisztrator).
