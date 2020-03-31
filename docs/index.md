@@ -6,9 +6,9 @@ A [CiviHelp](https://civihelp.hu) az ingyenes [CiviCRM](https://civicrm.org/) ka
 
 ## Miben segít a CiviHelp?
 
-- Rögzíti és nyilvántartja az önkéntes segítők és segítettek kapcsolati adatait, aktivitásukat és az e-mailes kommunikációt.
-- A koordinátorok az új és korábban regisztrált önkéntesek számára feladatokat hirdethetnek ki az Interneten, amelyre az önkéntesek jelentkezni tudnak, vagy regisztrálják magukat jövőbeli segítségnyújtásra.
-- Projektenként áttekinthető a jelentkezett önkéntesek időbeosztása és száma, az elvégzendő feladatok mennyisége és állapota.
+1. **Minden adat egy helyen**: az önkéntesek és a segítséget kérők kapcsolati adatait, aktivitásukat és a velük törénő kommunikációt a CiviHelp rögzíti, és minden koordinátor számára elérhetővé teszi. Új önkéntesek és segítségre jelentkezők egy internetes űrlap kitöltésével regisztrálhatnak a CiviHelp-be.
+2. **Közös feladatok megszervezése**: a koordinátorok több önkéntes számára közös feladatot, bennük különböző szerepekkel hirdethetnek meg az Interneten. Projektenként áttekinthető a jelentkezett önkéntesek időbeosztása és száma, az elvégzendő feladatok mennyisége és állapota.
+3. **Önkéntesek és segítettek összerendelése**: az egyéni segítségnyújtáshoz a CiviHelp megadott jellemzők (feladatok típusa, távolság, teherbírás, ...) szerint ajánlást tesz a legalkalmasabb önkéntesre, és segíti a koordinátor kommunikációját az önkéntes megbízásában.
 
 ## Első lépések
 
